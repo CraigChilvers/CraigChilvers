@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CraigChilvers
+- 👀 I’m interested in Machine Learning
+- 💞️ I’m looking to collaborate on Machine Learning and Data Analysis
